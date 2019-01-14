@@ -7,5 +7,5 @@
 #### Installation
 ```
 $> make
-$> ./fdf map.fdf
+$> ./fdf maps/map.fdf
 ```
