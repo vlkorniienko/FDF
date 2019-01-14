@@ -5,7 +5,7 @@
 ![](https://github.com/vlkorniienko/FDF/blob/master/screen.png)
 
 #### Installation
-'
+```
 $> make
 $> ./fdf map.fdf
-'
+```
